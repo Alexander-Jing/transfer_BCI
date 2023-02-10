@@ -2,6 +2,7 @@
 Code for applying transfer learning methods in BCI classification. It will be used for experiments of mental workload classification (fNIRS) or motion imagination (EEG)
 
 Transfer learning in BCI application (generated from ChatGPT)
+
 Transfer learning has been applied in a variety of research fields within the context of BCI (Brain-Computer Interface) classification, including but not limited to:
 
 Motor Imagery BCI: Motor imagery BCI is a type of BCI that allows users to control devices and perform actions through the visualization of motor movements in their mind. Transfer learning has been used to improve the performance of motor imagery BCI algorithms by transferring knowledge from one set of EEG signals to another.
