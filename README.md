@@ -1,7 +1,7 @@
 # transfer_BCI
 Code for applying transfer learning methods in BCI classification. It will be used for experiments of mental workload classification (fNIRS) or motion imagination (EEG)
 
-Transfer learning in BCI application (generated from ChatGPT)
+Transfer learning in BCI application (generated from ChatGPT):
 
 Transfer learning has been applied in a variety of research fields within the context of BCI (Brain-Computer Interface) classification, including but not limited to:
 
